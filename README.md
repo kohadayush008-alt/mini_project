@@ -1,2 +1,2 @@
 # mini_project
-first mini project
+This is my first GIt Repo
